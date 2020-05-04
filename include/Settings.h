@@ -18,7 +18,7 @@
 #endif
 #ifdef FULL_RESOLUTION
 	#define SCREEN_WIDTH    320
-	#define SCREEN_HEIGHT   240
+	#define SCREEN_HEIGHT   200
 #endif
 #ifdef MAX_FPS_RESOLUTION
 	#define SCREEN_WIDTH    80
